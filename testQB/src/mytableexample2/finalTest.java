@@ -54,10 +54,32 @@ public class finalTest extends JFrame implements TableModelListener{
     
    
     String LO[] = new String[15];
-    LO[0]="";
+    for(int i=0;i<LO.length;i++)
+    {
+        LO[i]="";
+    }
     for(int i=1;i<LO.length;i++)
     {
-    	LO[i]=new String("L"+Integer.toString(i));
+    	//LO[i]=new String("L"+Integer.toString(i));
+    	
+    	try
+    	{
+    		BufferedReader ip1 = new BufferedReader(new FileReader(new File("./data/col.txt")));
+    		String line=null;
+
+    		int lNumber=1;
+    		while((line= ip1.readLine()) != null)
+    		{
+    			//System.out.println(line);
+    			temp[0][lNumber]=line;	
+    			lNumber++;
+    		}
+    	}
+    	catch(Exception e)
+    	{
+
+    	}
+    	
     }
     
     try
@@ -65,7 +87,7 @@ public class finalTest extends JFrame implements TableModelListener{
     	BufferedReader ip1 = new BufferedReader(new FileReader(new File("./data/row.txt")));
      	String line=null;
      	
-    	int lNumber=0;
+    	int lNumber=1;
      	while((line= ip1.readLine()) != null)
     	{
     		//System.out.println(line);
@@ -139,9 +161,9 @@ public class finalTest extends JFrame implements TableModelListener{
 			e1.printStackTrace();
 		}
 		
-		for(int i=0;i<10;i++)
+		for(int i=1;i<10;i++)
 		{
-			for(int j=0;j<15;j++)
+			for(int j=1;j<15;j++)
 			{
 				ip.append(x[i][j]+" ");
 			}
