@@ -19,10 +19,13 @@ import javax.swing.border.EmptyBorder;
 import javax.swing.table.DefaultTableModel;
 import javax.swing.table.TableCellRenderer;
 
+import javax.swing.event.*;
+import javax.swing.table.TableModel;
+
 /**
  * @version 1.0 11/09/98
  */
-public class finalTest extends JFrame {
+public class finalTest extends JFrame implements TableModelListener{
 	
 	Object temp[][]=new Object[10][15];
 	
@@ -31,9 +34,22 @@ public class finalTest extends JFrame {
 		return temp;
 	}
 	
+	 public void tableChanged(TableModelEvent e) {
+	        int row = e.getFirstRow();
+	        int column = e.getColumn();
+	        TableModel model = (TableModel)e.getSource();
+	        String columnName = model.getColumnName(column);
+	        Object data = model.getValueAt(row, column);
+
+	        // Do something with the data...
+	        temp[row][column]=data;
+	        System.out.println(data.toString());
+	    }
+	
 	finalTest() {
     super("test");
     
+
     
     
    
@@ -86,12 +102,13 @@ public class finalTest extends JFrame {
     // 1"
     //
     table.setDefaultRenderer(String.class, new MultiLineCellRenderer());
+    table.getModel().addTableModelListener(this);
     JScrollPane scroll = new JScrollPane(table);
     getContentPane().add(scroll);
-    setSize(1000, 1000);
+    setSize(1058, 878);
     setVisible(true);
     
-    
+
     
   
   }

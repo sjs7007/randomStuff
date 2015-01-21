@@ -12,6 +12,9 @@ import javax.swing.table.TableColumn;
 import javax.swing.table.TableModel;
 //#1
 
+import javax.swing.event.*;
+import javax.swing.table.TableModel;
+
 public class MyTableExample2 extends javax.swing.JFrame implements TableModelListener {
 
     public MyTableExample2() {
