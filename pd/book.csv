@@ -1,0 +1,9 @@
+UserId,ISBN,Rating
+
+1,isbn1,1
+1,isbn2,2
+1,isbn3,3
+
+2,isbn1,3
+2,isbn2,3
+2,isbn3,3

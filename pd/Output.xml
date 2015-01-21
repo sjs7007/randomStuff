@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[G0YLe4KJic94J0Bi0zeBQ]]></key>
+    <method><![CDATA[book_isbn]]></method>
+  </Request>
+  <book>
+  <id>17978095</id>
+  <title>Insanity</title>
+  <isbn><![CDATA[1599907844]]></isbn>
+  <isbn13><![CDATA[9781599907840]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1377580078m/17978095.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1377580078s/17978095.jpg</small_image_url>
+  <publication_year>2014</publication_year>
+  <publication_month>2</publication_month>
+  <publication_day>18</publication_day>
+  <publisher>Bloomsbury USA Childrens</publisher>
+  <language_code></language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Never, Kentucky is not your average scenic small town. It is a crossways, a place where the dead and the living can find no peace. Not that Forest, an 18-year-old foster kid who works the graveyard shift at Lincoln Hospital, knew this when she applied for the job. Lincoln is a huge state mental institution, a good place for Forest to make some money to pay for college. But along with hundreds of very unstable patients, it also has underground tunnels, bell towers that ring unexpectedly, and a closet that holds more than just donated clothing....When the dead husband of one of Forest's patients makes an appearance late one night, seemingly accompanied by an agent of the Devil, Forest loses all sense of reality and all sense of time. Terrified, she knows she has a part to play, and when she does so, she finds a heritage that she never expected. <br><br>With her deep knowledge of mental illness and mental institutions, Susan Vaught brings readers a fascinating and completely creepy new book intertwining the stories of three young people who find themselves haunted beyond imagining in the depths of Lincoln Hospital.]]></description>
+  <work>
+  <best_book_id type="integer">17978095</best_book_id>
+  <books_count type="integer">2</books_count>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <desc_user_id type="integer">1090898</desc_user_id>
+  <id type="integer">25206600</id>
+  <media_type>book</media_type>
+  <original_language_id type="integer" nil="true"/>
+  <original_publication_day type="integer">18</original_publication_day>
+  <original_publication_month type="integer">2</original_publication_month>
+  <original_publication_year type="integer">2014</original_publication_year>
+  <original_title>Asylum</original_title>
+  <rating_dist>5:11|3:16|2:15|1:2|4:12|total:56</rating_dist>
+  <ratings_count type="integer">84</ratings_count>
+  <ratings_sum type="integer">274</ratings_sum>
+  <reviews_count type="integer">3483</reviews_count>
+  <text_reviews_count type="integer">24</text_reviews_count>
+</work>
+  <average_rating>3.26</average_rating>
+  <num_pages><![CDATA[384]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[84]]></ratings_count>
+  <text_reviews_count><![CDATA[24]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/17978095-insanity]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/17978095-insanity]]></link>
+  <authors>
+  <author>
+    <id>230018</id>
+    <name>Susan Vaught</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1348581769p5/230018.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1348581769p2/230018.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/230018.Susan_Vaught]]></link>
+    <average_rating>3.69</average_rating>
+    <ratings_count>3659</ratings_count>
+    <text_reviews_count>706</text_reviews_count>
+  </author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: verdana, arial, helvetica, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a href="https://www.goodreads.com/book/show/17978095-insanity">Insanity Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1599907844&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a href="https://www.goodreads.com/book/show/17978095-insanity?utm_medium=api&amp;utm_source=reviews_widget" class="gr_branding" target="_blank">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="3614"/>
+      <shelf name="currently-reading" count="31"/>
+      <shelf name="young-adult" count="27"/>
+      <shelf name="paranormal" count="22"/>
+      <shelf name="ghosts" count="16"/>
+      <shelf name="netgalley" count="14"/>
+      <shelf name="wish-list" count="10"/>
+      <shelf name="ya" count="9"/>
+      <shelf name="horror" count="8"/>
+      <shelf name="to-buy" count="8"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>1</id>
+  <name>Amazon</name>
+  <link>https://www.goodreads.com/book_link/follow/1</link>
+</book_link>
+<book_link>
+  <id>3</id>
+  <name>Barnes &amp; Noble</name>
+  <link>https://www.goodreads.com/book_link/follow/3</link>
+</book_link>
+<book_link>
+  <id>1027</id>
+  <name>Kobo</name>
+  <link>https://www.goodreads.com/book_link/follow/1027</link>
+</book_link>
+<book_link>
+  <id>4</id>
+  <name>Abebooks</name>
+  <link>https://www.goodreads.com/book_link/follow/4</link>
+</book_link>
+<book_link>
+  <id>10</id>
+  <name>Audible</name>
+  <link>https://www.goodreads.com/book_link/follow/10</link>
+</book_link>
+<book_link>
+  <id>882</id>
+  <name>Book Depository</name>
+  <link>https://www.goodreads.com/book_link/follow/882</link>
+</book_link>
+<book_link>
+  <id>9</id>
+  <name>Indigo</name>
+  <link>https://www.goodreads.com/book_link/follow/9</link>
+</book_link>
+<book_link>
+  <id>2</id>
+  <name>Half.com</name>
+  <link>https://www.goodreads.com/book_link/follow/2</link>
+</book_link>
+<book_link>
+  <id>5</id>
+  <name>Alibris</name>
+  <link>https://www.goodreads.com/book_link/follow/5</link>
+</book_link>
+<book_link>
+  <id>2102</id>
+  <name>iBooks</name>
+  <link>https://www.goodreads.com/book_link/follow/2102</link>
+</book_link>
+<book_link>
+  <id>107</id>
+  <name>Better World Books</name>
+  <link>https://www.goodreads.com/book_link/follow/107</link>
+</book_link>
+<book_link>
+  <id>3928</id>
+  <name>Target.com</name>
+  <link>https://www.goodreads.com/book_link/follow/3928</link>
+</book_link>
+<book_link>
+  <id>1602</id>
+  <name>Google Play</name>
+  <link>https://www.goodreads.com/book_link/follow/1602</link>
+</book_link>
+<book_link>
+  <id>7</id>
+  <name>IndieBound</name>
+  <link>https://www.goodreads.com/book_link/follow/7</link>
+</book_link>
+<book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>17842039</id>
+<title>Pieces of Me</title>
+<isbn>0385741162</isbn>
+<isbn13>9780385741163</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1372118065s/17842039.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1372118065m/17842039.jpg]]></image_url>
+<average_rating>3.72</average_rating>
+<ratings_count>25</ratings_count>
+<authors>
+  <author>
+    <id>927454</id>
+    <name>Amber Kizer</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>17986285</id>
+<title>Mayday</title>
+<isbn>0142412295</isbn>
+<isbn13>9780142412299</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1372682331s/17986285.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1372682331m/17986285.jpg]]></image_url>
+<average_rating>3.50</average_rating>
+<ratings_count>4</ratings_count>
+<authors>
+  <author>
+    <id>1379078</id>
+    <name>Jonathan Friesen</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>13639182</id>
+<title>Beware the Wild</title>
+<isbn>0062241524</isbn>
+<isbn13>9780062241528</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1391533548s/13639182.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1391533548m/13639182.jpg]]></image_url>
+<average_rating>4.48</average_rating>
+<ratings_count>21</ratings_count>
+<authors>
+  <author>
+    <id>5831672</id>
+    <name>Natalie C. Parker</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>18343196</id>
+<title>Killer  Instinct</title>
+<isbn></isbn>
+<isbn13></isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1380820386s/18343196.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1380820386m/18343196.jpg]]></image_url>
+<average_rating>3.72</average_rating>
+<ratings_count>36</ratings_count>
+<authors>
+  <author>
+    <id>7315430</id>
+    <name>S.E. Green</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>15728764</id>
+<title>Servants of the Storm</title>
+<isbn></isbn>
+<isbn13></isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1376515521s/15728764.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1376515521m/15728764.jpg]]></image_url>
+<average_rating>4.14</average_rating>
+<ratings_count>21</ratings_count>
+<authors>
+  <author>
+    <id>5135449</id>
+    <name>Delilah S. Dawson</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>17620859</id>
+<title>Burn Out</title>
+<isbn>1606844806</isbn>
+<isbn13>9781606844809</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1371497368s/17620859.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1371497368m/17620859.jpg]]></image_url>
+<average_rating>4.14</average_rating>
+<ratings_count>51</ratings_count>
+<authors>
+  <author>
+    <id>6997226</id>
+    <name>Kristi Helvig</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>18404113</id>
+<title>Complicit</title>
+<isbn>1250044596</isbn>
+<isbn13>9781250044594</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1383352823s/18404113.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1383352823m/18404113.jpg]]></image_url>
+<average_rating>4.00</average_rating>
+<ratings_count>31</ratings_count>
+<authors>
+  <author>
+    <id>5762535</id>
+    <name>Stephanie Kuehn</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>17303139</id>
+<title>Of Metal and Wishes</title>
+<isbn>144248358X</isbn>
+<isbn13>9781442483583</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1378396826s/17303139.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1378396826m/17303139.jpg]]></image_url>
+<average_rating>4.33</average_rating>
+<ratings_count>27</ratings_count>
+<authors>
+  <author>
+    <id>5752145</id>
+    <name>Sarah Fine</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>17847318</id>
+<title>The Girl from the Well</title>
+<isbn></isbn>
+<isbn13></isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1389992701s/17847318.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1389992701m/17847318.jpg]]></image_url>
+<average_rating>4.50</average_rating>
+<ratings_count>14</ratings_count>
+<authors>
+  <author>
+    <id>7055613</id>
+    <name>Rin Chupeco</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>17841138</id>
+<title>The Cure for Dreaming</title>
+<isbn></isbn>
+<isbn13></isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>4.33</average_rating>
+<ratings_count>3</ratings_count>
+<authors>
+  <author>
+    <id>5351847</id>
+    <name>Cat Winters</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>16005219</id>
+<title>Get Even (Don&apos;t Get Mad, #1)</title>
+<isbn></isbn>
+<isbn13></isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1392042939s/16005219.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1392042939m/16005219.jpg]]></image_url>
+<average_rating>4.38</average_rating>
+<ratings_count>8</ratings_count>
+<authors>
+  <author>
+    <id>4145664</id>
+    <name>Gretchen McNeil</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>17134589</id>
+<title>The Circle of Twelve</title>
+<isbn></isbn>
+<isbn13></isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1366655943s/17134589.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1366655943m/17134589.jpg]]></image_url>
+<average_rating>4.11</average_rating>
+<ratings_count>9</ratings_count>
+<authors>
+  <author>
+    <id>6855918</id>
+    <name>Maggie  Hall</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>13634097</id>
+<title>Bright Before Sunrise</title>
+<isbn></isbn>
+<isbn13></isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1375211505s/13634097.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1375211505m/13634097.jpg]]></image_url>
+<average_rating>3.91</average_rating>
+<ratings_count>188</ratings_count>
+<authors>
+  <author>
+    <id>4971410</id>
+    <name>Tiffany Schmidt</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>13600701</id>
+<title>The Glass Casket</title>
+<isbn></isbn>
+<isbn13></isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1371651450s/13600701.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1371651450m/13600701.jpg]]></image_url>
+<average_rating>3.67</average_rating>
+<ratings_count>117</ratings_count>
+<authors>
+  <author>
+    <id>5404521</id>
+    <name>McCormick Templeman</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>18710739</id>
+<title><![CDATA[Blackbird (Blackbird Duology, #1)]]></title>
+<isbn></isbn>
+<isbn13></isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1392468384s/18710739.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1392468384m/18710739.jpg]]></image_url>
+<average_rating>4.20</average_rating>
+<ratings_count>5</ratings_count>
+<authors>
+  <author>
+    <id>1792350</id>
+    <name>Anna Carey</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>18209531</id>
+<title>Ask Me</title>
+<isbn>1616953837</isbn>
+<isbn13>9781616953836</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1375822894s/18209531.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1375822894m/18209531.jpg]]></image_url>
+<average_rating>3.96</average_rating>
+<ratings_count>24</ratings_count>
+<authors>
+  <author>
+    <id>1111511</id>
+    <name>Kimberly Pauley</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>17608898</id>
+<title>The Killing Jar</title>
+<isbn></isbn>
+<isbn13></isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1384404807s/17608898.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1384404807m/17608898.jpg]]></image_url>
+<average_rating>4.60</average_rating>
+<ratings_count>5</ratings_count>
+<authors>
+  <author>
+    <id>4687048</id>
+    <name>Jennifer Bosworth</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>17559487</id>
+<title>Falls the Shadow</title>
+<isbn></isbn>
+<isbn13></isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1388446751s/17559487.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1388446751m/17559487.jpg]]></image_url>
+<average_rating>4.36</average_rating>
+<ratings_count>11</ratings_count>
+<authors>
+  <author>
+    <id>6980149</id>
+    <name>Stefanie Gaither</name>
+  </author>
+</authors>
+</book>
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

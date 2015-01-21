@@ -1,0 +1,1000 @@
+  354  cp source code
+  355  cp sourcecode
+  356  sourcecode cp
+  357  cd Desktop/dsds/
+  358  find . -name cp.c
+  359  nano cp.c
+  360  find . -name copy_file.c
+  361  search truecrypt
+  362  ins chrome
+  363  search chrome
+  364  cd Downloads/
+  365  tar -xf firefox-23.0.1.tar.bz2 
+  366  cd firefox/
+  367  ls
+  368  ./configure
+  369  ls
+  370  cd browser/
+  371  ls
+  372  chrome
+  373  cd ..
+  374  ls
+  375  sh run-mozilla.sh 
+  376  firefox
+  377  sudo apt-get update && sudo apt-get install -f
+  378  killall -9 python
+  379  exit
+  380  cr
+  381  exit
+  382  ssh pi@192.168.2.3
+  383  ssh pi@192.168.2.2
+  384  ifconfig
+  385  nmap -sP 192.168.2.*
+  386  ins nmap
+  387  nmap -sP 192.168.2.*
+  388  ssh pi@192.168.2.2
+  389  ssh pi@192.168.2.3
+  390  ins skype
+  391  skype
+  392  nano ~/.vimrc
+  393  cd ritchie/
+  394  cl
+  395  vim patt.c 
+  396  vim
+  397  ins vim
+  398  vimtutor
+  399  cd ritchie/
+  400  cl
+  401  vim test.c
+  402  ls
+  403  cat test.c 
+  404  nano ~/.vimrc
+  405  vim test.c
+  406  gcc test.c
+  407  ./a.out
+  408  vim test.c
+  409  gcc test.c
+  410  ./a.out
+  411  gcc test.c
+  412  vim test.c
+  413  gcc test.c
+  414  vim test.c
+  415  cp test.c patt.c
+  416  vim patt.c 
+  417  nano ~/.vimrc
+  418  nano make
+  419  vim patt.c 
+  420  rm *.swp
+  421  ls
+  422  ls -a
+  423  rm -a *.swp
+  424  rm -a .*
+  425  rm  .*
+  426  ls
+  427  vim patt.c
+  428  ls
+  429  ls -a
+  430  rm .patt.c.swp
+  431  ls -a
+  432  vim patt.c
+  433  clear
+  434  vim patt.c
+  435  rm .patt.c.swp
+  436  vim patt.c
+  437  vim fibo.c
+  438  rm .fibo.c.swp 
+  439  vim fibo.c
+  440  ls
+  441  rm ,wq 
+  442  ls
+  443  kilall -9 python
+  444  killall -9 python
+  445  nano ~/.vimrc
+  446  vim test
+  447  vim test.txt
+  448  nano ~/.vimrc
+  449  vim test.txt
+  450  cd ritchie/
+  451  cl
+  452  nano tempConv.C
+  453  vim tempConv.C
+  454  vim tempConv.c
+  455  vim ~/.vimrc
+  456  vim tempConv.c
+  457  nano ~/.vimrc
+  458  vim ~/.vimrc
+  459  nano ~/ritchie/tempConv.c
+  460  vim ~/ritchie/tempConv.c
+  461  vim ~/.vimrc
+  462  vim ~/ritchie/tempConv.c
+  463  cd ritchie/
+  464  ls
+  465  ls -a
+  466  rm .tempConv.c.sw
+  467  rm .tempConv.c.swo 
+  468  rm .tempConv.c.swp
+  469  vim tempConv.c
+  470  vim ~/.vimrc
+  471  rm /home/shinchan/.vimrc.swp
+  472  vim ~/.vimrc
+  473  ls
+  474  ls -a
+  475  vim ~/.vimrc
+  476  mkdir old
+  477  ins ed
+  478  ed
+  479  cl
+  480  vimtutor
+  481  copy pascal.c
+  482  vim pascal.c 
+  483  rm .pascal.c.swp 
+  484  vim pascal.c 
+  485  cd ritchie/
+  486  vim tempConv.c
+  487  ls
+  488  rm .tempConv.c.swp 
+  489  vim tempConv.c
+  490  rm .tempConv.c.swp 
+  491  vim tempConv.c
+  492  vim template.c
+  493  cp template.c temp.c
+  494  vim temp.c
+  495  cp template.c temp.c
+  496  vim temp.c
+  497  vim ~/.vimrc
+  498  vim temp.c
+  499  vim ~/.vimrc
+  500  vim temp.c
+  501  vim ~/.vimrc
+  502  cl
+  503  vim temp.c
+  504  vim countCharacters.c
+  505  cp template.c countCharacters.c
+  506  al
+  507  ls
+  508  rm template.c 
+  509  copy template.c
+  510  ls
+  511  vim template.c
+  512  ls
+  513  rm countCharacters.c 
+  514  copy countChar.c
+  515  rm countChar.c 
+  516  al
+  517  ls
+  518  al
+  519  ls
+  520  del
+  521  ls
+  522  cd old
+  523  ls
+  524  al
+  525  ls
+  526  cd ..
+  527  ls
+  528  del
+  529  ls
+  530  al
+  531  ls
+  532  del
+  533  al
+  534  del
+  535  cd /home/shinchan/ritchie/old
+  536  cd ..
+  537  ls
+  538  mv * ../old
+  539  rm old
+  540  mv * old
+  541  rm -rf old
+  542  ls
+  543  cl
+  544  vim template.c
+  545  ls
+  546  mkdir old
+  547  ls
+  548  mv *.c ~/ritchie/old; cp ~/ritchie/old/template.c ~/ritchie/template.c
+  549  ls
+  550  touch a.c
+  551  ls
+  552  ls old
+  553  al
+  554  ls
+  555  cd old
+  556  ls
+  557  rm a.c
+  558  cd ..
+  559  al
+  560  cd /home/shinchan/cron/
+  561  ls
+  562  vim syncDown3.sh
+  563  vim syncRitchie.sh
+  564  chmod +x *
+  565  ./syncRitchie.sh 
+  566  crontab -e
+  567  vim syncRitchie.sh
+  568  ls
+  569  al
+  570  vim syncRitchie.sh 
+  571  ls
+  572  touch syncRitchieLog
+  573  ls
+  574  nano syncRitchie.sh 
+  575  ls
+  576  cat syncRitchieLog 
+  577  xl
+  578  cl
+  579  exit
+  580  logout
+  581  cl
+  582  cd /home/shinchan/ritchie/
+  583  cl
+  584  ls
+  585  del
+  586  ls
+  587  cd old
+  588  ls
+  589  cd ..
+  590  copy countChar.c
+  591  vim countChar.c 
+  592  cr
+  593  cl
+  594  vim ~/.vimrc
+  595  vim test.txt
+  596  cr
+  597  cd cron
+  598  nano syncDown3.sh 
+  599  cr
+  600  kl
+  601  gag
+  602  f "DSC"
+  603  f "DSC*"
+  604  f "DSC*" | head
+  605  f "DSC*" | head 200
+  606  f "DSC*" | head -10
+  607  f "DSC*" | head -100
+  608  f "DSC*" | head -200
+  609  f "DSC*" | head -300
+  610  f "DSC*" | head -400
+  611  f "DSC*" | head -500
+  612  f "DSC*" | head -600
+  613  f "DSC*" | head -700
+  614  f "DSC*" | head -800
+  615  f "DSC*" | head -2000
+  616  f "DSC*" | head -3000
+  617  f "DSC*" | head -4000
+  618  f "*camera*" 
+  619  f "*camera" 
+  620  f "camera" 
+  621  f "DSC*" > a.txt
+  622  cd /media
+  623  ls
+  624  cd 52AA12FAAA12D9F5/
+  625  ls
+  626  f "DSC*"
+  627  nano ~/cron/syncDown3.sh 
+  628  cr
+  629  nano ~/cron/syncDown3.sh 
+  630  cr
+  631  nano ~/cron/syncDown3.sh 
+  632  cr
+  633  f "*.iso"
+  634  mount -o loop ~/Desktop/Dropbox/balasara/ms.iso ~/Desktop/mnt/
+  635  sudo mount -o loop ~/Desktop/Dropbox/balasara/ms.iso ~/Desktop/mnt/
+  636  cr
+  637  cd School/Java/
+  638  cl
+  639  vim checkSumLong.java
+  640  copy checkSumLong.java template.java
+  641  cp checkSumLong.java template.java
+  642  vim template.java 
+  643  al
+  644  cl
+  645  ls
+  646  copy2 checkSumLong.java 
+  647  vim checkSumLong.java 
+  648  vim ~/.vimrc
+  649  vim checkSumLong.java 
+  650  vim ~/.vimrc
+  651  vim checkSumLong.java 
+  652  vim ~/.vimrc
+  653  vim checkSumLong.java 
+  654  vim ~/.vimrc
+  655  vim checkSumLong.java 
+  656  vim ~/.vimrc
+  657  vim checkSumLong.java 
+  658  vim ~/.vimrc
+  659  vim checkSumLong.java 
+  660  rm .checkSumLong.java.swp 
+  661  vim checkSumLong.java 
+  662  vim ~/.vimrc
+  663  vim checkSumLong.java 
+  664  ins wine
+  665  search wine
+  666  ins wine-dev
+  667  ins wine1.2
+  668  cl
+  669  vim checkSumLong.java 
+  670  rm .checkSumLong.java.swp
+  671  gag
+  672  kl
+  673  sudo pkill X
+  674  cd ritchie
+  675  copy temp.c
+  676  cl
+  677  vim temp
+  678  ls
+  679  vim temp.c
+  680  cr
+  681  killall -9 python
+  682  cr
+  683  f "*.mp3"
+  684  ins lm-sensors
+  685  sudo sensors
+  686  nano ~/.bashrc
+  687  nano .bash_aliases
+  688  sudo sensors
+  689  al
+  690  nano al
+  691  al
+  692  vimc
+  693  al
+  694  j
+  695  al
+  696  nano ~/.bash_aliases
+  697  . ~/.bashrc
+  698  nano ~/.bash_aliases
+  699  x
+  700  c
+  701  j
+  702  al
+  703  j
+  704  x
+  705  c
+  706  vimc
+  707  emacs -nv
+  708  emacs 
+  709  emacs -nw
+  710  cr
+  711  kl
+  712  twill
+  713  twill-sh
+  714  ins wireshark
+  715  j
+  716  cop checkSumShort.java
+  717  copy checkSumShort.java
+  718  vim checkSumShort.java 
+  719  copy2 checkSumShort.java
+  720  vim checkSumShort.java 
+  721  j
+  722  vim Moore.java 
+  723  cr
+  724  vim Moore.java 
+  725  cl
+  726  java Moore 
+  727  f brand
+  728  f 
+  729  f "brand"
+  730  f "*.mp3"
+  731  cl
+  732  copy2 Moore.java
+  733  vim Moore.java 
+  734  j
+  735  vim Moore.java 
+  736  gag
+  737  killall -9 python
+  738  lsof -Pni
+  739  cr
+  740  ls
+  741  cr
+  742  cd Downloads/
+  743  ls
+  744  cd Season\ 1/
+  745  ls
+  746  rsync FUT101\ -\ Space\ Pilot\ 3000.mp4 harry@192.168.2.4:~/
+  747  rsync --partial --progress -h  FUT101\ -\ Space\ Pilot\ 3000.mp4 harry@192.168.2.4:~/
+  748  ifconfig
+  749  cr
+  750  gag
+  751  c
+  752  cr
+  753  al
+  754  cd ~/cron
+  755  vim syncDown3.sh
+  756  cr
+  757  kl
+  758  cat a >>test
+  759  cat a >>test2
+  760  cat test2 >>a
+  761  cat test2
+  762  echo a>>test2
+  763  cat test2
+  764  echo a>>test3
+  765  cat test4
+  766  cat test3
+  767  cd ~
+  768  mkdir sshbackup
+  769  cp ~/.ssh sshbackup/
+  770  cp -a ~/.ssh sshbackup/
+  771  ls -a /home/shinchan/sshbackup/
+  772  cd ~/.shh
+  773  cd ~/.ssh
+  774  ls
+  775  echo ssh-dss AAAAB3NzaC1kc3MAAACBAKFx30p3lA+du7rOigvN+xJ9sTO3vvDObYp5xoO8SqpDU1QKMMKWgkIozRKlNThCPR3c3S2x+OKPajNsdrjY1L+s2wxrWIThLd1nJ+Hb+g2+u4VSIVW2W/yQ9MUfLgGQvaCZfWdFkaj72lWEy2XaU3qFDrtFeYGyoapt8slbpwcvAAAAFQDJeLry6UzJ3iJ9GP2kiBm2h+UzCQAAAIBEyoKfataWtKvvnStXqoMFRCEBarB2mFwmVZZiOUh7ThAz2g/RN4ZBiD4fJsTgh+msk5xKeaEQMUWT3YYEGAuvD55N/M6ZYHCrukw7Uo7i/7roJrGI1uT1wvYkTi5pOYR+IdjK+6m7O4yv7rf/UODJlu2DQHvVTYVtZGeZE1aX5gAAAIBvrt1cMqINLzs+0cP5RmzCRXYrAbKn01p+XD2XP+JmlVFmFhbdeCwYiPzKClTX2s1jZyWNd3wOJG8BNsFRgPcwaV2elCygZbYdBS9CzP8TuXEtAj9dLfNbEsXaWkclxHp07dspW0OiQFay/akyOaTBEeeXHsUyzEHG5F9nHuDQ7Q== rsync@android >>authorized_keys 
+  776  cd /home/shinchan/Desktop/Dropbox/
+  777  f "korth"
+  778  f database
+  779  f "*.pdf" | grep korth
+  780  cp f "*.pdf" | grep korth /home/shinchan/Desktop/
+  781  cp SEM-IV/DBMS/database\ system\ concepts\ 4th\ edition\ by\ silberschatz-korth-sudarshan.pdf /home/shinchan/Desktop/toAce/ebooks/
+  782  al
+  783  vim /home/shinchan/cron/syncDown3.sh
+  784  cr
+  785  al
+  786  vim /hsp
+  787  f "*.sh"
+  788  cd /home/shinchan/Desktop/Dropbox/bash
+  789  ls
+  790  nano for.sh
+  791  rsync --partial --progress -h /home/shinchan/Downloads/Season\ 1/ pi@192.168.2.2:/media/shinchan/streampi
+  792  rsync -a --partial --progress -h /home/shinchan/Downloads/Season\ 1/ pi@192.168.2.2:/media/shinchan/streampi
+  793  ls
+  794  cd Downloads/
+  795  cd Season\ 1/
+  796  ls
+  797  rsync FUT106\ -\ A\ Fishfull\ Of\ Dollars.mp4 pi@192.168.2.2:/media/shinchan/streampi
+  798  rsync --partial --progress -h FUT106\ -\ A\ Fishfull\ Of\ Dollars.mp4 pi@192.168.2.2:/media/shinchan/streampi
+  799  rsync --partial --progress -h FUT10[7-10]\ -\ My\ Three\ Suns.mp4 pi@192.168.2.2:/media/shinchan/streampi
+  800  rsync --partial --progress -h FUT107\ -\ My\ Three\ Suns.mp4 pi@192.168.2.2:/media/shinchan/streampi
+  801  rsync --partial --progress *.mp4 pi@192.168.2.2:/media/shinchan/streampi
+  802  rsync --partial --progress -h *.mp4 pi@192.168.2.2:/media/shinchan/streampi
+  803  ls
+  804  cr
+  805  cl
+  806  al
+  807  rec
+  808  al
+  809  nano ~/rec.sh
+  810  al
+  811  rec
+  812  al
+  813  rec
+  814  ssh pi@192.168.2.2
+  815  nano ~/.ssh/known_hosts 
+  816  ssh pi@192.168.2.2
+  817  ssh harry@192.168.2.4
+  818  killall -9 python
+  819  cr
+  820  rsync /home/shinchan/Downloads/Yeh\ Jawaani\ Hai\ Deewani\ 2013\ Hindi\ DvDRip\ 720p\ \(MP4\)\ x264...Hon3y/ -a --partial -h --progress pi@192.168.2.2:/media/shinchan/streampi
+  821  pi
+  822  rsync /home/shinchan/Downloads/Yeh\ Jawaani\ Hai\ Deewani\ 2013\ Hindi\ DvDRip\ 720p\ \(MP4\)\ x264...Hon3y/ -a --partial -h --progress pi@192.168.2.2:/media/shinchan/streampi
+  823  rec
+  824  /home/shinchan/./rec.sh
+  825  top
+  826  killall -9 rsync
+  827  rec
+  828  nano ~/rec.sh
+  829  rec
+  830  vim /home/shinchan/Desktop/Dropbox/bash
+  831  vim /home/shinchan/Desktop/Dropbox/bash/for.sh 
+  832  wget http://nodejs.org/dist/v0.10.18/node-v0.10.18-linux-x86.tar.gz
+  833  rm node-v0.10.18-linux-x86
+  834  rm -rf node-v0.10.18-linux-x86
+  835  rm node-v0.10.18-linux-x86.tar.gz 
+  836  cl
+  837  vimtutor
+  838  cd School/js
+  839  ls School
+  840  cd School/
+  841  rm JS
+  842  rm -rf JS
+  843  mkdir nodejs
+  844  cd nodejs/
+  845  cl
+  846  vim hello.js
+  847  node hello.js 
+  848  kilall -9 node
+  849  killall -9 node
+  850  exit
+  851  ls
+  852  exit
+  853  tar -zxf node-v0.10.18-linux-x86.tar.gz 
+  854  cd node-v0.10.18-linux-x86/
+  855  ./configure && make && sudo make install
+  856  ls
+  857  ls bin
+  858  cd node
+  859  ls
+  860  cd bin
+  861  ls
+  862  cd node
+  863  cd ..
+  864  ./configure
+  865  cd ..
+  866  cl
+  867  mv /home/shinchan/Downloads/node-v0.10.18.tar.gz ~/
+  868  cl
+  869  tar -zxf node-v0.10.18.tar.gz 
+  870  cd node*
+  871  ./configure
+  872  make
+  873  ins g++
+  874  make
+  875  sudo make install
+  876  cl
+  877  al
+  878  js
+  879  cl
+  880  vim server.js
+  881  vimc
+  882  vim server.js
+  883  node server.js 
+  884  cp server.js server2.js
+  885  node server2.js 
+  886  vim server2.js 
+  887  killall -9 node
+  888  node server.js 
+  889  killall -9 node
+  890  vim server.js
+  891  node server.js 
+  892  vim server.js
+  893  cl
+  894  vim server2.js
+  895  al
+  896  vimc
+  897  vim server2.js
+  898  vimc
+  899  exit
+  900  vim server2.js 
+  901  vimc
+  902  vim server2.js 
+  903  vimc
+  904  vim server2.js 
+  905  node server2.js 
+  906  killall -9 node
+  907  node server2.js 
+  908  killall -9 node
+  909  vimc
+  910  node server2.js 
+  911  vim server2.js 
+  912  vim moduleTest.js
+  913  vim index.js
+  914  vim moduleTest.js
+  915  vim index.js
+  916  killall -9 python
+  917  cr
+  918  cd Downloads/
+  919  cd Yeh\ Jawaani\ Hai\ Deewani\ 2013\ Hindi\ DvDRip\ 720p\ \(MP4\)\ x264...Hon3y/
+  920  rsync -partial --progress -h pi@192.168.2.2:/media/shinchan/streampi
+  921  rsync -partial --progress -h Yeh\ Jawaani\ Hai\ Deewani\ 2013\ Hindi\ DvDRip\ 720p\ \(MP4\)\ x264...Hon3y.mp4 pi@192.168.2.2:/media/shinchan/streampi
+  922  cl
+  923  ssh pi@192.168.2.2
+  924  ssh pi@192.168.2.2
+  925  gag
+  926  nano ~/cron/run9gag.sh 
+  927  nano ~/cron/9gagFinal.py 
+  928  gag
+  929  ssh pi@192.168.2.2
+  930  cl
+  931  ssh pi@192.168.2.2
+  932  cl
+  933  ssh pi@192.168.2.2
+  934  crontab 0e
+  935  crontab -e
+  936  nano temp.sh
+  937  sh temp.sh 
+  938  nano temp.sh
+  939  sh temp.sh 
+  940  nano temp.sh
+  941  sh temp.sh 
+  942  nano temp.sh
+  943  sh temp.sh 
+  944  bash rec.sh
+  945  sh rec.sh
+  946  al
+  947  sh rec.sh
+  948  cl
+  949  rec
+  950  rsync --partial --progress -h  /home/shinchan/Downloads/Yeh\ Jawaani\ Hai\ Deewani\ 2013\ Hindi\ DvDRip\ 720p\ \(MP4\)\ x264...Hon3y/ pi@192.168.2.2:/media/shinchan/streampi
+  951  rsync -a --partial --progress -h  /home/shinchan/Downloads/Yeh\ Jawaani\ Hai\ Deewani\ 2013\ Hindi\ DvDRip\ 720p\ \(MP4\)\ x264...Hon3y/ pi@192.168.2.2:/media/shinchan/streampi
+  952  rsync --partial --progress -h  /home/shinchan/Downloads/Yeh\ Jawaani\ Hai\ Deewani\ 2013\ Hindi\ DvDRip\ 720p\ \(MP4\)\ x264...Hon3y/Yeh\ Jawaani\ Hai\ Deewani\ 2013\ Hindi\ DvDRip\ 720p\ \(MP4\)\ x264...Hon3y. pi@192.168.2.2:/media/shinchan/streampi
+  953  cd Downloads/
+  954  cd Yeh\ Jawaani\ Hai\ Deewani\ 2013\ Hindi\ DvDRip\ 720p\ \(MP4\)\ x264...Hon3y/
+  955  cl
+  956  rsync Yeh\ Jawaani\ Hai\ Deewani\ 2013\ Hindi\ DvDRip\ 720p\ \(MP4\)\ x264...Hon3y.mp4 pi@192.168.2.2:/media/streampi
+  957  rsync --partial --progress -h Yeh\ Jawaani\ Hai\ Deewani\ 2013\ Hindi\ DvDRip\ 720p\ \(MP4\)\ x264...Hon3y.mp4 pi@192.168.2.2:/media/streampi
+  958  rsync --partial --progress -h Yeh\ Jawaani\ Hai\ Deewani\ 2013\ Hindi\ DvDRip\ 720p\ \(MP4\)\ x264...Hon3y.mp4 pi@192.168.2.2:/media/shinchan/streampi
+  959  cd ..
+  960  rec
+  961  nano ~/rec.sh
+  962  vim ~/rec.sh
+  963  sh raspi/
+  964  cd ~
+  965  sh rec.sh 
+  966  vim rec.sh
+  967  sh rec.sh 
+  968  vim rec.sh
+  969  sh rec.sh 
+  970  vim rec.sh
+  971  bash rec.sh
+  972  vim rec.sh
+  973  bash rec.sh
+  974  vim rec.sh
+  975  bash rec.sh
+  976  vim rec.sh
+  977  bash rec.sh
+  978  vim rec.sh
+  979  bash rec.sh
+  980  vim rec.sh
+  981  rec
+  982  vim rec.sh
+  983  rec
+  984  vim rec.sh
+  985  bash rec.sh
+  986  vim rec.sh
+  987  bash rec.sh
+  988  chmod +x *.sh
+  989  ls
+  990  vim rec.sh 
+  991  bash rec.sh
+  992  cat cronLappyTest 
+  993  crontab -e
+  994  cat cronLappyTest 
+  995  crontab -e
+  996  sudo reboot
+  997  cat cronLappyTest 
+  998  vim rec.sh
+  999  cat cronLappyTest 
+ 1000  bash rec.sh
+ 1001  crontab -e
+ 1002  ls *.sh
+ 1003  sh rec.sh
+ 1004  cat cronLappyTest 
+ 1005  vim rec.sh
+ 1006  sh rec.sh
+ 1007  cat RunningSync 
+ 1008  wget -qO- https://toolbelt.heroku.com/install-ubuntu.sh | sh
+ 1009  heroku
+ 1010  heroku login
+ 1011  npm install
+ 1012  ins git
+ 1013  git init
+ 1014  cl
+ 1015  cd School/
+ 1016  mkdir heroku
+ 1017  js
+ 1018  ls
+ 1019  node hello.js 
+ 1020  node server.js 
+ 1021  killall -9 node
+ 1022  node server2.js 
+ 1023  killall -9 node
+ 1024  cp server2.js ../heroku/
+ 1025  cd ../heroku/
+ 1026  ls
+ 1027  cd ~
+ 1028  ins ruby
+ 1029  ins git-core
+ 1030  search gems
+ 1031  ins rubygems1.9.1
+ 1032  gem install foreman
+ 1033  sudo gem install foreman
+ 1034  nano ~/.bashrc
+ 1035  ~/.bashrc
+ 1036  sudo ~/.bashrc
+ 1037  al
+ 1038  ~/.bashrc
+ 1039  sudo ~/.bashrc
+ 1040  ~/.bashrc
+ 1041  al
+ 1042  source ~/.bashrc
+ 1043  killall -9 transmissions
+ 1044  ps -ef
+ 1045  killall -9 transmission 
+ 1046  ll
+ 1047  cat RunningSync 
+ 1048  rec
+ 1049  vim ~/rec.sh
+ 1050  bash rec.sh
+ 1051  vim ~/rec.sh
+ 1052  bash rec.sh
+ 1053  killall -9 transmission 
+ 1054  rec
+ 1055  ssh pi@192.168.2.2
+ 1056  gem install foreman
+ 1057  sudo ~~
+ 1058  sudo sudo ~~
+ 1059  sudo gem install foreman
+ 1060  man rsync
+ 1061  man cp
+ 1062  cd /media/PHILIPS/Music
+ 1063  find . -name "*.mp3" -exec cp "{}" /home/shinchan/Downloads/raspi/philips/ \;
+ 1064  cat router1.js 
+ 1065  cat routing1.js 
+ 1066  cat server2.js 
+ 1067  vim index2.js 
+ 1068  exit
+ 1069  logout
+ 1070  exit
+ 1071  js
+ 1072  vim request
+ 1073  vim requestHandlers.js
+ 1074  killall -9 python
+ 1075  rec
+ 1076  cd School/heroku/
+ 1077  foreman start
+ 1078  gem install foreman
+ 1079  sudo gem install foreman
+ 1080  foreman start
+ 1081  foreman-0.63.0 start
+ 1082  sudo foreman start
+ 1083  ls
+ 1084  foreman
+ 1085  foreman check
+ 1086  foreman start
+ 1087  killall -9 node
+ 1088  foreman start
+ 1089  cd ~/.ssh
+ 1090  ls
+ 1091  xclip -sel clip < ~/.ssh/id_rsa.pub
+ 1092  ins xclip
+ 1093  xclip -sel clip < ~/.ssh/id_rsa.pub
+ 1094  cd /home/shinchan/randomStuff/
+ 1095  ls
+ 1096  mkdir heroku
+ 1097  cd heroku/
+ 1098  git add index4.js
+ 1099  git push
+ 1100  git commit -am "index"
+ 1101  git push
+ 1102  git config --global user.name sjs7007
+ 1103  git config --global user.email sjs7007@gmail.com
+ 1104  git add Procfile
+ 1105  git add router4.js
+ 1106  git add package.json
+ 1107  git add server4.js
+ 1108  git add requestHandlers4.js
+ 1109  git commit -am "all added"
+ 1110  git push
+ 1111  cl
+ 1112  git push heroku master
+ 1113  git init
+ 1114  git push heroku master
+ 1115  git add .
+ 1116  git commit -m "init"
+ 1117  heroku create
+ 1118  git push heroku master 
+ 1119  heroku keys:add
+ 1120  git push heroku master 
+ 1121  git push
+ 1122  git push heroku master 
+ 1123  git push 
+ 1124  git push master
+ 1125  git push randomStuff
+ 1126  git push heroku master 
+ 1127  ld
+ 1128  git init
+ 1129  git add .
+ 1130  git commit -m "init"
+ 1131  heroku create
+ 1132  git push heroku master
+ 1133  git init
+ 1134  git add .
+ 1135  git commit -m "init"
+ 1136  heroku create
+ 1137  git push heroku master
+ 1138  heroku logs
+ 1139  foreman start
+ 1140  killall -9 node
+ 1141  foreman start
+ 1142  ls
+ 1143  vim index3.js
+ 1144  cl
+ 1145  ls
+ 1146  vim index2.js 
+ 1147  vim index3.js 
+ 1148  ls
+ 1149  vim server3.js
+ 1150  vim router3.js
+ 1151  vim requestHandlers.js.js 
+ 1152  vim requestHandlers.js 
+ 1153  vim index3.js 
+ 1154  node index3.js 
+ 1155  vim server3.js 
+ 1156  node index3.js 
+ 1157  mkdir test3
+ 1158  cp index3.js test3
+ 1159  cp requestHandlers.js test3
+ 1160  cp router3.js test3/
+ 1161  ls test3
+ 1162  vim requestHandlers.js 
+ 1163  node index3.js 
+ 1164  killall -9 node 
+ 1165  node index3.js 
+ 1166  vim requestHandlers.js 
+ 1167  mv requestHandlers.js requestHandlers4.js 
+ 1168  mv index3.js index4.js
+ 1169  mv router3.js router4.js
+ 1170  vim requestHandlers4.js 
+ 1171  vim router4.js 
+ 1172  vim server4
+ 1173  vim server4.js
+ 1174  ls
+ 1175  ls test3/
+ 1176  cp server3.js test3/
+ 1177  mv server3.js server4.js
+ 1178  vim server4.js
+ 1179  node index4.js 
+ 1180  killall -9 node 
+ 1181  node index4.js 
+ 1182  vim index4.js 
+ 1183  node index4.js 
+ 1184  cl
+ 1185  vim requestHandlers5.js 
+ 1186  node index5.js 
+ 1187  vim index5.js 
+ 1188  vim requestHandlers5.js 
+ 1189  vim index5.js 
+ 1190  node index5.js 
+ 1191  vim requestHandlers5.js 
+ 1192  node index5.js 
+ 1193  killall -9 node
+ 1194  node index5.js 
+ 1195  killall -9 node
+ 1196  sudo gem install rubygems-update
+ 1197  sudo /var/lib/gems/1.8/bin/update_rubygems
+ 1198  sudo /var/lib/gems/1.9.1/bin/update_rubygems
+ 1199  heroku logs
+ 1200  cd ~
+ 1201  cl
+ 1202  git clone git@github.com:sjs7007/randomStuff.git
+ 1203  js
+ 1204  cat hello.js 
+ 1205  vim test.js
+ 1206  node test.js 
+ 1207  vim test.js
+ 1208  node test.js 
+ 1209  cr
+ 1210  ls
+ 1211  cd heroku
+ 1212  cd ~/heroku
+ 1213  cd ../heroku
+ 1214  vim server4.js 
+ 1215  foreman start
+ 1216  git add .
+ 1217  git commit -am
+ 1218  git commit -m "init"
+ 1219  git push heroku master
+ 1220  heroku create
+ 1221  git push heroku master
+ 1222  cd /home/shinchan/randomStuff/
+ 1223  cd heroku/
+ 1224  ls
+ 1225  git add .
+ 1226  git commit -m ""
+ 1227  git commit -m "init"
+ 1228  git push heroku master
+ 1229  heroku create
+ 1230  git push heroku master
+ 1231  ls
+ 1232  ls -a
+ 1233  git init
+ 1234  git add .
+ 1235  git push
+ 1236  git commit -m "test"
+ 1237  git push heroku master
+ 1238  git remote rm heroku
+ 1239  git remote add heroku git@heroku.com:sheltered-wave-7494.git
+ 1240  git push heroku master
+ 1241  foreman start
+ 1242  killall -9 node
+ 1243  foreman start
+ 1244  npm install express
+ 1245  sudo npm install express
+ 1246  foreman start
+ 1247  cl
+ 1248  git add .
+ 1249  git commit -m "init"
+ 1250  git push heroku master
+ 1251  foreman start
+ 1252  killall -9 node
+ 1253  foreman start
+ 1254  killall -9 node
+ 1255  foreman start
+ 1256  al
+ 1257  nk
+ 1258  al
+ 1259  foreman start
+ 1260  nk
+ 1261  foreman start
+ 1262  nk
+ 1263  foreman start
+ 1264  git commit -m "init"
+ 1265  git add .
+ 1266  git commit -m "init"
+ 1267  git push heroku master
+ 1268  git add .
+ 1269  git commit -m "init"
+ 1270  git push heroku master
+ 1271  foreman start
+ 1272  nk
+ 1273  foreman start
+ 1274  nk
+ 1275  foreman start
+ 1276  nk
+ 1277  foreman start
+ 1278  nk
+ 1279  foreman start
+ 1280  nk
+ 1281  foreman start
+ 1282  git add .
+ 1283  al
+ 1284  her
+ 1285  al
+ 1286  her
+ 1287  nk
+ 1288  foreman start
+ 1289  nk
+ 1290  foreman start
+ 1291  nk
+ 1292  foreman start
+ 1293  nano ~/cron/syncDown3.sh
+ 1294  cr
+ 1295  nano ~/cron/syncDown3.sh
+ 1296  kl
+ 1297  ls
+ 1298  exit
+ 1299  cd randomStuff/
+ 1300  cd heroku2/
+ 1301  git add .
+ 1302  foreman start
+ 1303  nk
+ 1304  foreman start
+ 1305  nk
+ 1306  foreman start
+ 1307  cl
+ 1308  heroku create
+ 1309  git push heroku master
+ 1310  her
+ 1311  git pull
+ 1312  her
+ 1313  cd ..
+ 1314  cd heroku
+ 1315  her
+ 1316  cd ../heroku2/
+ 1317  her
+ 1318  git add .
+ 1319  git commit -m "2"
+ 1320  cd ../heroku
+ 1321  cl
+ 1322  her
+ 1323  cd ../heroku2
+ 1324  ls
+ 1325  cd ../heroku
+ 1326  her
+ 1327  foreman start
+ 1328  nk
+ 1329  foreman start
+ 1330  nk
+ 1331  foreman start
+ 1332  nk
+ 1333  foreman start
+ 1334  her
+ 1335  git commit -a "test"
+ 1336  git commit -a 
+ 1337  git add .
+ 1338  killall -9 git
+ 1339  git add .
+ 1340  git commit -m "test"
+ 1341  git push heroku master
+ 1342  git init
+ 1343  git add .
+ 1344  git commit -m "test"
+ 1345  git push heroku 
+ 1346  git push heroku master
+ 1347  git remote add heroku git@heroku.com:sheltered-wave-7494.git
+ 1348  git push heroku master
+ 1349  history | grep rm
+ 1350  git remote rm heroku
+ 1351  git remote add heroku git@heroku.com:sheltered-wave-7494.git
+ 1352  git push heroku master
+ 1353  history > a.txt
