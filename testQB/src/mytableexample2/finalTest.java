@@ -27,7 +27,7 @@ import javax.swing.table.TableModel;
  */
 public class finalTest extends JFrame implements TableModelListener{
 	
-	Object temp[][]=new Object[10][15];
+	Object temp[][]=new Object[11][15];
 	
 	public Object[][] getData()
 	{
@@ -161,7 +161,7 @@ public class finalTest extends JFrame implements TableModelListener{
 			e1.printStackTrace();
 		}
 		
-		for(int i=1;i<10;i++)
+		for(int i=1;i<11;i++)
 		{
 			for(int j=1;j<15;j++)
 			{

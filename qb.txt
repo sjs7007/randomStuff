@@ -1,0 +1,6 @@
+//start link : http://stackoverflow.com/questions/8002445/trying-to-create-jtable-with-proper-row-header
+// #1 : add table change : http://docs.oracle.com/javase/tutorial/uiswing/components/table.html#simple
+// #2 : change column width : http://docs.oracle.com/javase/tutorial/uiswing/components/table.html#width
+// #3 : row height : http://stackoverflow.com/questions/3454691/jtable-change-the-row-height-dynamically
+// #4 : read from csv
+// main : http://www.java2s.com/Code/Java/Swing-Components/MultiLineCellExample.htm
