@@ -155,7 +155,7 @@ public class finalTest extends JFrame implements TableModelListener{
     	StringBuffer ip = new StringBuffer();
 		FileWriter op=null;
 		try {
-			op = new FileWriter("./data/dataGen.txt");
+			op = new FileWriter("./data/dataGen.csv");
 		} catch (IOException e1) {
 			// TODO Auto-generated catch block
 			e1.printStackTrace();
@@ -165,7 +165,7 @@ public class finalTest extends JFrame implements TableModelListener{
 		{
 			for(int j=1;j<15;j++)
 			{
-				ip.append(x[i][j]+" ");
+				ip.append(x[i][j]+",");
 			}
 			ip.append("\n");
 		}
