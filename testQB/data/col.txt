@@ -1,0 +1,14 @@
+L1: Select appropriate methods for organizing data files and implement file-based data
+L2: Model a given data structure as ADT
+L3: Describe how various data structures are represented in memory
+L4: Write programs that use data structures such as: arrays, linked lists, stacks, queues, trees, hash tables, and graphs.
+L5: Compare iterative and recursive solutions for elementary problem
+L6: Determine when a recursive solution is appropriate for a problem
+L7: Compare and contrast the benefits of dynamic and static data structure implementations
+L8: Demonstrate and implement different methods for traversing trees
+L9: Understand the working of multiway search tree structures
+L10: Implement the Huffman coding algorithm using binary tree
+L11: Implement hash tables, including collision avoidance and resolution
+L12: Implement various searching and sorting algorithms  
+L13: Discuss the runtime and memory efficiency of principal algorithms for sorting and searching
+L14: Analyze a given problem and select the appropriate data structures required to solve the problem.
