@@ -1,0 +1,10 @@
+Q1.Explain Linear and Non Linear Data Structure with examples null null null null null null null null null null null null null null 
+Q2. Explain various techniques of graph representation null null null null null null null null null null null null null null 
+Q3. Write a program to convert decimal to binary using any appropriate data structure you have studied null null null null null null null null null null null null null null 
+Q4. Explain ADT with an example null null null null null null null null null null null null null null 
+Q5 what is Huffman coding? Construct a Huffman tree and determine the code for the following characters whose frequencies are given. null null null null null null null null null null null null null null 
+Q6. Write a program in C to evaluate a postfix expression null null null null null null null null null null null null null null 
+Q7. Write a program in C to implement circular queue. The program should perform following operation (i) Creating a Queue (ii) Deleting from the Queue (iii) Inserting in the Queue (iv) Displaying all the elements in the Queue null null null null null null null null null null null null null null 
+Q8. Sort the following elements using Radix Sort. What are the limitations of Radix Sort? null null null null null null null null null null null null null null 
+Q9. Discuss AVL trees. Insert the following elements in an AVL search tree null null null null null null null null null null null null null null 
+Q10. Explain indexed sequential search with a suitable example. What are the advantages and disadvantages of indexed sequential search? null null null null null null null null null null null null null null 

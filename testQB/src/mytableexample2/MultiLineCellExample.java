@@ -7,6 +7,8 @@ import java.awt.event.WindowEvent;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
 
 import javax.swing.JFrame;
 import javax.swing.JScrollPane;
@@ -21,10 +23,22 @@ import javax.swing.table.TableCellRenderer;
  * @version 1.0 11/09/98
  */
 public class MultiLineCellExample extends JFrame {
-  MultiLineCellExample() {
+	
+	Object temp[][]=new Object[10][15];
+	
+	public Object[][] getData()
+	{
+		return temp;
+	}
+	
+	MultiLineCellExample() {
     super("Multi-Line Cell Example");
-    Object temp[][]=new Object[10][14];
+    
+    
+    
+   
     String LO[] = new String[15];
+    LO[0]="";
     for(int i=1;i<LO.length;i++)
     {
     	LO[i]=new String("L"+Integer.toString(i));
@@ -32,7 +46,7 @@ public class MultiLineCellExample extends JFrame {
     
     try
     {
-    	BufferedReader ip1 = new BufferedReader(new FileReader(new File("/home/shinchan/randomStuff/testQB/data/row.txt")));
+    	BufferedReader ip1 = new BufferedReader(new FileReader(new File("./data/row.txt")));
      	String line=null;
      	
     	int lNumber=0;
@@ -47,6 +61,8 @@ public class MultiLineCellExample extends JFrame {
     {
     	
     }
+    
+    
    
 
     DefaultTableModel dm = new DefaultTableModel(temp,
@@ -74,12 +90,56 @@ public class MultiLineCellExample extends JFrame {
     getContentPane().add(scroll);
     setSize(1000, 1000);
     setVisible(true);
+    
+    
+    
+  
   }
 
-  public static void main(String[] args) {
-    MultiLineCellExample frame = new MultiLineCellExample();
+  public static void main(String[] args) throws IOException{
+    final MultiLineCellExample frame = new MultiLineCellExample();
     frame.addWindowListener(new WindowAdapter() {
       public void windowClosing(WindowEvent e) {
+    	Object x[][]=frame.getData();
+    	
+    	
+    	//print data
+    	/*for(int i=0;i<10;i++)
+    	{
+    		for(int j=0;j<15;j++)
+    		{
+    			System.out.print(x[i][j]+" ");
+    		}
+    		System.out.println();
+    	}*/
+    	
+    	StringBuffer ip = new StringBuffer();
+		FileWriter op=null;
+		try {
+			op = new FileWriter("./data/dataGen.txt");
+		} catch (IOException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		}
+		
+		for(int i=0;i<10;i++)
+		{
+			for(int j=0;j<15;j++)
+			{
+				ip.append(x[i][j]+" ");
+			}
+			ip.append("\n");
+		}
+		
+		try {
+			op.write(ip.toString());
+			op.flush();
+			op.close();
+		} catch (IOException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		}
+    	
         System.exit(0);
       }
     });
