@@ -22,7 +22,7 @@ import javax.swing.table.TableCellRenderer;
 /**
  * @version 1.0 11/09/98
  */
-public class MultiLineCellExample extends JFrame {
+public class finalTest extends JFrame {
 	
 	Object temp[][]=new Object[10][15];
 	
@@ -31,8 +31,8 @@ public class MultiLineCellExample extends JFrame {
 		return temp;
 	}
 	
-	MultiLineCellExample() {
-    super("Multi-Line Cell Example");
+	finalTest() {
+    super("test");
     
     
     
@@ -97,7 +97,7 @@ public class MultiLineCellExample extends JFrame {
   }
 
   public static void main(String[] args) throws IOException{
-    final MultiLineCellExample frame = new MultiLineCellExample();
+    final finalTest frame = new finalTest();
     frame.addWindowListener(new WindowAdapter() {
       public void windowClosing(WindowEvent e) {
     	Object x[][]=frame.getData();
